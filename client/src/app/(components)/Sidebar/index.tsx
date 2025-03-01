@@ -82,8 +82,8 @@ const Sidebar = () => {
         }`}
       >
         <Image
-          // src="https://s3-inventorymanagement.s3.us-east-2.amazonaws.com/logo.png"
-          src="/elbalogo.png"
+          src="https://s3-warehousemanagement.s3.us-east-1.amazonaws.com/logo.png"
+          // src="/elbalogo.png"
           alt="elba-logo"
           width={40}
           height={40}
